@@ -109,7 +109,7 @@ ${answers.description}
 ${answers.usage}
 
 ## License
-https://img.shields.io/badge/License-${answers.license}-green
+https://img.shields.io/static/v1?label=License&message=${answers.license}&color=green
 
 ## Tests 
 ${answers.test}

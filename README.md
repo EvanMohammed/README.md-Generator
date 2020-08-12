@@ -1,7 +1,7 @@
- # Project 1
+ # README.md Generator
 
 ## Description 
-it is about making a README.md file
+it is about making an organized README.md
 ## Table of Contents 
 - installation 
 - usage 
@@ -9,21 +9,21 @@ it is about making a README.md file
 - links 
 
 ## Installation 
-- go to the link below
-- click download
-- enjoy
+- check my js file
+- download it 
+- run it in terminal and enjoy
 
 ## Usage 
-it is for junior developers who want to write an oragnized readme.md
+for future developers so that they will not spend much time making a README.md file
 
 ## License
-https://img.shields.io/badge/License-Apache-2.0-green
+https://img.shields.io/static/v1?label=License&message=MIT&color=green
 
 ## Tests 
-example example
+example sentence
 
 ## Links
-- Github Account : https://github.com/evanmohammed
+- Github Account : https://github.com/evanMohammed
 - Email Address : evanmohammedsaleh@gmail.com
 
   
